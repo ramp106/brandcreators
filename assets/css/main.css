@@ -3492,22 +3492,11 @@ input, select, textarea {
 
 	}
 
-.align-logo-accenture{
 
-      vertical-align: middle;
-    padding-top:40px;
-    padding-right:600px;
-      margin: auto;
-  width: 50%;
-    float:left;
-
-}
 .align-logo-omr{
-    padding-left:600px;
-
-      vertical-align: middle;
 margin:auto;
-  width: 50%;
-    float:left;
-
 }
+.accenture{
+    width:300px;
+vertical-align: top;
+padding-top:40px;}
