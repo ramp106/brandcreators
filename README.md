@@ -1,2 +1,0 @@
-# brandcreators
-brand-creators.com
