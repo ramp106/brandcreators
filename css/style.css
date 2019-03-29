@@ -2088,15 +2088,18 @@ max-width: 100%;
   transform: translate(-50%, -50%);
 }
 .flexslider .slides img {
-    width: 200px;
-    float: left;
      margin: auto;
 align-content:center;
     padding: 10px;
 }
 
-.align-logo{
+.align-logo-accenture{
       vertical-align: middle;
+    padding-top:40px;
+}
+.align-logo-omr{
+      vertical-align: middle;
+ width: 250px;
 }
 
 .flexslider .flex-direction-nav a.flex-next:before, .flexslider2 .flex-direction-nav a.flex-next:before {
@@ -2325,11 +2328,11 @@ align-content:center;
 }
 
 .probootstrap-testimony blockquote p {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .probootstrap-testimony img {
-  width: 50px;
+  width: 100px;
   border-radius: 50%;
   margin-right: 20px;
 }
@@ -2348,7 +2351,7 @@ align-content:center;
 
 .probootstrap-testimony .author > img span, .probootstrap-testimony .author > div span {
   font-weight: normal;
-  margin-top: 5px;
+  margin-top: 10px;
   display: block;
   text-transform: none;
 }
@@ -2658,6 +2661,3 @@ align-content:center;
   background: rgba(0, 0, 0, 0.9);
 }
 
-.logo {
-    width:100px;
-}
